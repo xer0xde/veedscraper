@@ -10,7 +10,6 @@
   "author": "xerox",
   "license": "ISC",
   "dependencies": {
-    "node-key-sender": "^1.0.11",
     "selenium-webdriver": "^4.17.0"
   }
 }
